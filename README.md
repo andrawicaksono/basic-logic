@@ -1,0 +1,5 @@
+[Factorial](https://en.wikipedia.org/wiki/Factorial)
+[Fizz buzz](https://en.wikipedia.org/wiki/Fizz_buzz)
+[Palindrome](https://en.wikipedia.org/wiki/Palindrome)
+[Parentheses](https://en.wikipedia.org/wiki/Parenthesis_(rhetoric))
+[Set](https://www.geeksforgeeks.org/introduction-to-set-data-structure-and-algorithm-tutorials)
