@@ -2,7 +2,7 @@ import java.util.*;
 
 public class Solution {
   static int equivalentMinutes(int minutes, int seconds) {
-    int number = 0;
+    int number;
 
     double planetSeconds = 1.0 * minutes * seconds;
     number = (int) Math.ceil(planetSeconds / 60);
